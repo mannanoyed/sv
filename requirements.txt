@@ -1,0 +1,8 @@
+torch==2.0.1
+torchaudio==2.0.2
+speechbrain==0.5.15
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+scipy==1.11.3
+numpy==1.24.3
